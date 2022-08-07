@@ -21,7 +21,7 @@
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <br>
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GrahpQL&logoColor=white">
+ <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white">
 </p><br>
 
 ![Hailey0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hailey0930&show_icons=true&theme=tokyonight) 
