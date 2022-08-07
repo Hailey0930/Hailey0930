@@ -25,3 +25,6 @@
 </p><br>
 
 ![Hailey0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hailey0930&show_icons=true&theme=tokyonight) 
+<br>
+    
+![footer](https://capsule-render.vercel.app/api?section=footer)
