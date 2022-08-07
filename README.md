@@ -8,9 +8,6 @@
 전혜린입니다🫶🏻<br>
 </p>
 
-<p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHailey0930%2F&count_bg=%23DA4ADB&title_bg=%23767474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
     
 <br>
 <p align="center">
