@@ -1,12 +1,6 @@
 <h3 align='center'>
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=90&animation=blink&fontAlignY=38&desc=hyerin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-<p align="center">
-안녕하세요!👐<br>
-프론트엔드 개발자 공부 중인<br>
-전혜린입니다🫶🏻<br>
-</p>
-
     
 <br>
 <p align="center">
