@@ -28,8 +28,5 @@
 
 ![Hailey0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hailey0930&show_icons=true&theme=tokyonight) 
 <br>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-<br>
     
 ![footer](https://capsule-render.vercel.app/api?section=footer)
