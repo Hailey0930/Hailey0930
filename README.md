@@ -1,5 +1,12 @@
+<div align="center">
+<h1>Hi! I'm Fronted junior developer Hyerin 💕</h1>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hailey0930&count_bg=%23BA7CD7&title_bg=%23D8A2E3&icon=smugmug.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a><br><br>
+
+<img src="https://user-images.githubusercontent.com/107675322/205005411-b3c2a8c5-21f8-4557-8981-36d1bd9f72e0.png" />
+
+
 <p>
-    <h2>✨Stack✨</h2>
+    <h3>✨ Stack ✨</h3>
 </p>
 
 <p display="inline-block">
@@ -12,7 +19,7 @@
 </p><br>
 
 <p>
-    <h2>☎️Contact☎️</h2>
+    <h3>☎️ Contact ☎️</h3>
 </p>
 
 <p display="inline-block">
@@ -22,5 +29,6 @@
 
 <br><br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hailey0930&count_bg=%23BA7CD7&title_bg=%23D8A2E3&icon=smugmug.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a><br><br>
-![Hailey0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hailey0930&show_icons=true&theme=tokyonight) 
+![Hailey0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hailey0930&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailey0930&layout=compact)](https://github.com/Hailey0930/github-readme-stats)
+</div>
