@@ -23,7 +23,7 @@
 </p>
 
 <p display="inline-block">
-<a href="https://Hailey0930.github.io"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://Hailey0930.github.io"/></a>
+<a href="https://velog.io/@hyerin0930"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyerin0930"/></a>
 <a href="mailto:hyerin0930@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyerin0930@gmail.com"/></a>
 </p>
 
